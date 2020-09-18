@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [dr_cote](https://up.htmlacademy.ru/javascript/21/user/1001795).
-* Наставник: `Неизвестно`.
+* Наставник: `Наставник`.
 
 ---
 
